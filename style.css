@@ -1,0 +1,24 @@
+body{
+    padding: 100px;
+    display: grid;
+    justify-content: center;
+    align-self: center;
+}
+div{
+    border: 3px solid black;
+    background-color: burlywood;
+    padding: 20px;
+    width: 400px;
+}
+
+li{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.delete{
+    margin-left: 10px;
+    color: red;
+}
+div h1{
+    text-align: center;
+}
